@@ -18,7 +18,7 @@ var firebaseConfig = {
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello Keeran Sir</Text>
+      <Text>Hello App</Text>
       <StatusBar style="auto" />
     </View>
   );
